@@ -1,0 +1,245 @@
+html,
+body {
+    height: 100%;
+    background-color: white !important;
+    color: black !important;
+    min-width: 500px;
+}
+
+@font-face {
+    font-family: "Levenim";
+    src:    url('fonts/levenim.ttf') format('truetype');
+}
+@font-face {
+    font-family: "Orbitron";
+    src:    url('fonts/Orbitron Light.ttf') format('truetype');
+}
+
+.clear {
+    clear: both;
+}
+
+.hacka-font {
+    font-family: Orbitron;
+}
+
+.hacka-h1 {
+    font-family: Orbitron;
+    text-align: center;
+    font-size: 70px;
+}
+
+.panel-body {
+    padding: 0px 0px 0px 0px;
+    height: 360px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+#manage-events a {
+    color: orange !important;
+}
+
+#content-wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    padding-top: 50px;
+}
+#content-wrapper a {
+    color: #87ceeb;
+}
+#content-wrapper a:hover {
+    color: #add8e6;
+}
+
+/*#hackaglobal-nav-bar {*/
+    /*min-width: 500px;*/
+/*}*/
+
+#hackaglobal-nav-bar, .dropdown-menu {
+    font-family: 'Open Sans';
+    font-weight:300;
+    font-size:18px;
+    line-height:1.8em;
+    color:#404040;
+    margin:0;
+    padding:0;
+}
+
+#nav-bar-logo {
+    display: none;
+}
+
+.navbar-nav .btn {
+    color: white !important;
+    margin-top: 3px;
+} .navbar-nav .btn:hover {
+      color: red !important;
+      margin-top: 3px;
+  }
+
+#navbar-social {
+    display: none;
+}
+
+.nav-bar-hackaglobal-text {
+    font-family: levenim;
+    color: black !important;
+    font-size: 35px;
+    margin-top: 7px;
+    padding: 0px 30px 0px 0px;
+}
+
+@media (min-width: 900px) {
+    #navbar-social {
+        display: block;
+    }
+}
+@media (min-width: 600px){
+    #nav-bar-logo {
+        display: block;
+        width: 65px;
+        margin-top: -18px;
+    }
+}
+@media (min-width: 500px) {
+    .nav-bar-hackaglobal-text:before {
+        content: "Hacka";
+    }
+}
+
+.icon-calendar {
+    color: black;
+}
+#nav-bar-hackaglobal-text-input {
+    margin: 0px 0px 0px 0px;
+    height: 45px;
+    resize: horizontal;
+    /*width: 125px;*/
+}
+
+#footer {
+    height: 60px;
+}
+
+.page-header {
+    font-size: 5em;
+}
+
+
+.event-container {
+    padding: 20px 0px 20px 20px;
+
+    -webkit-transition: background 0.5s linear;
+    -moz-transition: background 0.5s linear;
+    -o-transition: background 0.5s linear;
+    transition: background 0.5s linear;
+}
+.event-container:hover {
+    background: rgba(0, 0, 0, .7);
+    color: white !important;
+}
+
+
+#home-tabbed-content button {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    width: 100px;
+}
+
+#nav-find-event-search-btn {
+    position: absolute;
+    top: 0px;
+    right: -5px;
+    width: 70px;
+}
+
+#nav-search-form {
+    position: relative;
+    width: 400px;
+    margin-right: 10px;
+}
+
+#nav-find-event-search {
+    width: 300px;
+    height: 40px;
+    margin-bottom: -10px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.staff-container {
+    padding: 5px 10px 5px 10px;
+    margin: 15px 0px 15px 0px;
+    text-align: center;
+    height: 180px;
+    position: relative;
+}
+
+.profilepicture img {
+    width: 200px;
+}
+
+
+/* RESPONSIVE VIDEO */
+.flex-video {
+    position: relative;
+    padding-top: 25px;
+    padding-bottom: 67.5%;
+    height: 0;
+    margin-bottom: 16px;
+    overflow: hidden;
+}
+
+.flex-video.widescreen { padding-bottom: 57.25%; }
+.flex-video.vimeo { padding-top: 0; }
+
+.flex-video iframe,
+.flex-video object,
+.flex-video embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+@media only screen and (max-device-width: 800px), only screen and (device-width: 1024px) and (device-height: 600px), only screen and (width: 1280px) and (orientation: landscape), only screen and (device-width: 800px), only screen and (max-width: 767px) {
+    .flex-video { padding-top: 0; }
+}
+
+.login-icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #eeeeee;
+    padding: 5px 5px 5px 5px;
+    margin: 0px 5px 0px 5px;
+    font-size: 1.5em !important;
+    color: black !important;
+}
+.login-icon:hover {
+    color: #2f4f4f !important;
+}
+
+.hackaglobal-horizontal-list
+{
+    clear: both;
+    overflow-x:scroll;
+    overflow-y:hidden;
+    width:100%;
+    padding: 0 15px;
+}
+
+.hackaglobal-horizontal-list-inline {
+    white-space:nowrap;
+}
+
+.hackaglobal-horizontal-list-item
+{
+    clear: both;
+    height: 750px;
+    width: 500px;
+
+    white-space:normal;
+}

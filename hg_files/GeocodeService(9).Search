@@ -1,0 +1,60 @@
+/**/_xdc_._c3meyf && _xdc_._c3meyf( {
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dehli",
+               "short_name" : "Dehli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bharuch",
+               "short_name" : "Bharuch",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gujarat",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dehli, Gujarat, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.5705707,
+                  "lng" : 73.22924139999999
+               },
+               "southwest" : {
+                  "lat" : 21.5583579,
+                  "lng" : 73.2073115
+               }
+            },
+            "location" : {
+               "lat" : 21.566381,
+               "lng" : 73.2205065
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.5705707,
+                  "lng" : 73.22924139999999
+               },
+               "southwest" : {
+                  "lat" : 21.5583579,
+                  "lng" : 73.2073115
+               }
+            }
+         },
+         "place_id" : "ChIJ0zkucHca4DsR_abK9XI8ERo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+ )

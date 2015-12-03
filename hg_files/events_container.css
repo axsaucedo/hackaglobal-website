@@ -1,0 +1,118 @@
+/* events *//* events *//* events *//* events */
+/* events *//* events *//* events *//* events */
+/* events *//* events *//* events *//* events */
+.hackacity-view-title {
+    position: relative;
+    background: transparent;
+}
+.hackacity-view-title-event:before {
+    content: attr(title);
+    position: absolute;
+    height: 600px;
+    -webkit-text-stroke: 1em #fff;
+    z-index: -1;
+}
+.hackacity-view-events-list
+{
+    clear: both;
+    overflow-x:scroll;
+    overflow-y:hidden;
+    width:100%;
+    padding: 0 15px;
+}
+
+.hackacity-view-events-list-inline {
+    white-space:nowrap;
+}
+
+.hackacity-view-events-list-item
+{
+    clear: both;
+    height: 750px;
+    width: 500px;
+
+    white-space:normal;
+}
+.hackaevent-photo {
+    /*max-width: 100%;*/
+    max-height: 100%;
+
+    width: auto;
+}
+
+.event-image-container {
+    height: 200px;
+}
+.hackaevent-photo-container {
+    height: 80%;
+}
+.hackaevent-hackacity-logo-container {
+    height: 10%;
+}
+.hackaevent-hackacity-logo-container div {
+    font-size: 50px;
+    text-align: right;
+    color: #ffffff;
+    margin: 10px 10px 0px 0px;
+    text-decoration: no-underline;
+}
+.hackaevent-hackacity-logo-container div:hover {
+    -webkit-text-stroke: 2px #1e90ff;
+    text-decoration: no-underline;
+}
+
+@media (min-width: 780px) {
+    .hackacity-view-events-list-item
+    {
+        height: 580px;
+        width: 1000px;
+    }
+    .hackacity-events-list {
+        height:600px;
+    }
+    .event-image-container {
+        height: 500px;
+    }
+}
+
+.hackacity-view-events-list-item .hackacity-event-container {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,.5);
+    /*background-color: rgba(255,255,255,.5);*/
+    padding: 20px 20px 20px 20px;
+}
+
+.hackacity-view-events-list-item .hackacity-event-information-container {
+    background-color: black;
+    color: white;
+    padding: 15px 30px 15px 30px;
+    height: 500px;
+}
+.hackacity-view-events-list-item .hackacity-event-title {
+    background-color: #2ec6f5;
+    color: black;
+    text-align: left;
+    font-size: 2em;
+    padding: 5px 15px 5px 15px;
+    line-height: 1em;
+}
+.hackacity-view-events-list-item .row {
+    margin-bottom: 15px;
+}
+.hackacity-view-events-list-item .hackacity-event-title a {
+    color: black !important;
+}
+.hackacity-view-events-list-item .hackacity-event-datetime {
+    text-align: center;
+    font-size: 16px !important;
+    line-height: 25px;
+    color: #e02b39;
+}
+.hackacity-view-events-list-item .hackacity-event-description {
+    padding: 0px 10px 0px 10px;
+    text-align: justify;
+    font-size: 14px !important;
+    line-height: 23px;
+    color: white;
+}

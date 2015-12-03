@@ -1,0 +1,340 @@
+/**/_xdc_._og8lr1 && _xdc_._og8lr1( {
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangor",
+               "short_name" : "Bangor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Penobscot County",
+               "short_name" : "Penobscot County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangor, ME, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.88146889999999,
+                  "lng" : -68.7189697
+               },
+               "southwest" : {
+                  "lat" : 44.7778699,
+                  "lng" : -68.85918079999999
+               }
+            },
+            "location" : {
+               "lat" : 44.80118210000001,
+               "lng" : -68.77781379999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.88146889999999,
+                  "lng" : -68.7189697
+               },
+               "southwest" : {
+                  "lat" : 44.7778699,
+                  "lng" : -68.85918079999999
+               }
+            }
+         },
+         "place_id" : "ChIJvSkREEZLrkwRd3avp7AYCU0",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangor",
+               "short_name" : "Bangor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northampton County",
+               "short_name" : "Northampton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18013",
+               "short_name" : "18013",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bangor, PA 18013, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8791601,
+                  "lng" : -75.1939211
+               },
+               "southwest" : {
+                  "lat" : 40.8547201,
+                  "lng" : -75.223552
+               }
+            },
+            "location" : {
+               "lat" : 40.86565150000001,
+               "lng" : -75.2065676
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8791601,
+                  "lng" : -75.1939211
+               },
+               "southwest" : {
+                  "lat" : 40.8547201,
+                  "lng" : -75.223552
+               }
+            }
+         },
+         "place_id" : "ChIJ7Z4Tu2ZkxIkRM8SbboSGvHs",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangor Charter Township",
+               "short_name" : "Bangor Charter Twp",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bay County",
+               "short_name" : "Bay County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangor Charter Twp, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.701442,
+                  "lng" : -83.84076979999999
+               },
+               "southwest" : {
+                  "lat" : 43.5948098,
+                  "lng" : -83.93273479999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6570454,
+               "lng" : -83.9003022
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.701442,
+                  "lng" : -83.84076979999999
+               },
+               "southwest" : {
+                  "lat" : 43.5948098,
+                  "lng" : -83.93273479999999
+               }
+            }
+         },
+         "place_id" : "ChIJY8rDq6BfIYgR5CLBRYiceRE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangor",
+               "short_name" : "Bangor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Van Buren County",
+               "short_name" : "Van Buren County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49013",
+               "short_name" : "49013",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bangor, MI 49013, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3234799,
+                  "lng" : -86.094446
+               },
+               "southwest" : {
+                  "lat" : 42.2945548,
+                  "lng" : -86.128272
+               }
+            },
+            "location" : {
+               "lat" : 42.3125355,
+               "lng" : -86.11307939999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3234799,
+                  "lng" : -86.094446
+               },
+               "southwest" : {
+                  "lat" : 42.2945548,
+                  "lng" : -86.128272
+               }
+            }
+         },
+         "place_id" : "ChIJPRUWToZOF4gRIS6uZM13UuA",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangor",
+               "short_name" : "Bangor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Crosse County",
+               "short_name" : "La Crosse County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangor, WI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.9024949,
+                  "lng" : -90.9706448
+               },
+               "southwest" : {
+                  "lat" : 43.8845831,
+                  "lng" : -91.0027269
+               }
+            },
+            "location" : {
+               "lat" : 43.8930218,
+               "lng" : -90.9904109
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.9024949,
+                  "lng" : -90.9706448
+               },
+               "southwest" : {
+                  "lat" : 43.8845831,
+                  "lng" : -91.0027269
+               }
+            }
+         },
+         "place_id" : "ChIJ2XvJqHqk_ocRMOfi8CiVle4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangor",
+               "short_name" : "Bangor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangor",
+               "short_name" : "Bangor",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Franklin County",
+               "short_name" : "Franklin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12966",
+               "short_name" : "12966",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bangor, NY 12966, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.81227310000001,
+               "lng" : -74.3973963
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.81362208029151,
+                  "lng" : -74.39604731970849
+               },
+               "southwest" : {
+                  "lat" : 44.81092411970851,
+                  "lng" : -74.39874528029149
+               }
+            }
+         },
+         "place_id" : "ChIJ75JCer-My0wRbU8z_5bqsuk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+ )

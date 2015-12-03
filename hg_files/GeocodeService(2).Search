@@ -1,0 +1,65 @@
+/**/_xdc_._nspa5f && _xdc_._nspa5f( {
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Durban",
+               "short_name" : "Durban",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Durban Metro",
+               "short_name" : "Durban Metro",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Durban Metro",
+               "short_name" : "Durban Metro",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "KwaZulu-Natal",
+               "short_name" : "KZN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Africa",
+               "short_name" : "ZA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Durban, South Africa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -29.7799069,
+                  "lng" : 31.0598891
+               },
+               "southwest" : {
+                  "lat" : -29.9168518,
+                  "lng" : 30.9248291
+               }
+            },
+            "location" : {
+               "lat" : -29.85868039999999,
+               "lng" : 31.0218404
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -29.7799069,
+                  "lng" : 31.0598891
+               },
+               "southwest" : {
+                  "lat" : -29.9168518,
+                  "lng" : 30.9248291
+               }
+            }
+         },
+         "place_id" : "ChIJt2G8AQCq9x4RgW6qxEZVp8w",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+ )

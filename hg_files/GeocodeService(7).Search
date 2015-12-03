@@ -1,0 +1,60 @@
+/**/_xdc_._xz3jwf && _xdc_._xz3jwf( {
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Petersburg",
+               "short_name" : "St Petersburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pinellas County",
+               "short_name" : "Pinellas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St Petersburg, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9133357,
+                  "lng" : -82.58765079999999
+               },
+               "southwest" : {
+                  "lat" : 27.644609,
+                  "lng" : -82.7670129
+               }
+            },
+            "location" : {
+               "lat" : 27.7518284,
+               "lng" : -82.6267345
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9133357,
+                  "lng" : -82.58765079999999
+               },
+               "southwest" : {
+                  "lat" : 27.644609,
+                  "lng" : -82.7670129
+               }
+            }
+         },
+         "place_id" : "ChIJQao6aWPmwogR_4vUvANAzAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+ )

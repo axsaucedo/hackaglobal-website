@@ -1,0 +1,60 @@
+/**/_xdc_._5pe91h && _xdc_._5pe91h( {
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nizhny Novgorod",
+               "short_name" : "Nizhny Novgorod",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Nizhniy Novgorod",
+               "short_name" : "g. Nizhniy Novgorod",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nizhny Novgorod Oblast",
+               "short_name" : "Nizhny Novgorod Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nizhny Novgorod, Nizhny Novgorod Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.4003969,
+                  "lng" : 44.1333061
+               },
+               "southwest" : {
+                  "lat" : 56.1850831,
+                  "lng" : 43.7201843
+               }
+            },
+            "location" : {
+               "lat" : 56.2965039,
+               "lng" : 43.9360589
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.4003969,
+                  "lng" : 44.1333061
+               },
+               "southwest" : {
+                  "lat" : 56.1850831,
+                  "lng" : 43.7201843
+               }
+            }
+         },
+         "place_id" : "ChIJUTID7vnVUUERqleWhM_A0yg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+ )
