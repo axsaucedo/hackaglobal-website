@@ -71,6 +71,7 @@ h2{ font-size:25px; line-height:1.25em;}
     height: 80px;
     width: 100%;
     clear: both;
+    font-family: levenim !important;
 }
 .home-date-now-hackacities-container li:hover {
     color: white;
