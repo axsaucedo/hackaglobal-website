@@ -52,19 +52,17 @@ h2{ font-size:25px; line-height:1.25em;}
     background-color: white;
     margin: auto auto;
     width: 80%;
+    max-width: 800px;
     position: relative;
 
     margin-bottom: 100px;
 
     border-radius: 30px;
-    border: solid;
-    border-width: 10px;
 }
 .home-date-now-hackacities-container {
     margin: auto auto;
     font-size: 25px;
-    overflow-y: auto;
-    overflow-x: hidden;
+    width: 100%;
 }
 .home-date-now-hackacities-container li {
     color: black;
@@ -72,6 +70,7 @@ h2{ font-size:25px; line-height:1.25em;}
     padding-top: 25px;
     height: 80px;
     width: 100%;
+    clear: both;
 }
 .home-date-now-hackacities-container li:hover {
     color: white;
